@@ -2832,7 +2832,7 @@ nav {
 .image-right .splash-image,
 .image-left .splash-image {
   /* stylelint-disable function-url-quotes */
-  background-image: url("https://cdn.myportfolio.com/8f814365-582b-441d-beb7-dbdc32bf4c6c/d2d5961a-55d9-48aa-99ba-6594b196b72e_rwc_0x0x624x606x4096.png?h=162629496c2fe3c73ad066a7f4268902");
+  background-image: url("./cohen-logo-gs.svg");
   /* stylelint-enable function-url-quotes */
   background-position: center center;
   background-repeat: no-repeat;
